@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafid Amirudin</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+
 
 - 📫 How to reach me **xuidn0708@gmail.com**
 
